@@ -1,0 +1,7 @@
+Dokumentasi Pos_kasirku
+
+
+revisi v1
+1. saat input nominal disemua form buat ala mesin atm, "15.000"jadi biar tidak bingung masukkan angka terlebih nol Ketika banyak, jadi kayak pas tampilan Harga sudah benar
+2. Ketika sudah ada di pop up "Proses bayar" otomatis muncul struk saat itu juga yang sudah otomatis tercatat juga diriwayat transaksi, jadi tidak perlu pindah pindah tab saat melakukan bayar an ada keterangan apa yang dibeli
+3. setelah ini bener kita coba brainstorming lagi terkait nama dan logo untuk kedepannya
